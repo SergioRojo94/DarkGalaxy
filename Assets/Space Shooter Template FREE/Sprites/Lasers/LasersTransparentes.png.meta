@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 212ab19291ad7d043a9f6dc838a9965c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3650242852609348202
+    second: LasersTransparentes_0
+  - first:
+      213: -7477143715299008014
+    second: LasersTransparentes_1
+  - first:
+      213: -6073512821432498701
+    second: LasersTransparentes_2
+  - first:
+      213: -7174979142481323844
+    second: LasersTransparentes_3
+  - first:
+      213: 2657341205702621300
+    second: LasersTransparentes_4
+  - first:
+      213: -4787723827659280696
+    second: LasersTransparentes_5
+  - first:
+      213: 4735620646538247514
+    second: LasersTransparentes_6
+  - first:
+      213: -2113573318237857909
+    second: LasersTransparentes_7
+  - first:
+      213: -3194130636308084135
+    second: LasersTransparentes_8
+  - first:
+      213: -8889924176560995784
+    second: LasersTransparentes_9
+  - first:
+      213: -7928403505859876704
+    second: LasersTransparentes_10
+  - first:
+      213: -1500613241733443696
+    second: LasersTransparentes_11
+  - first:
+      213: 5018976668898515331
+    second: LasersTransparentes_12
+  - first:
+      213: -6429627784652302629
+    second: LasersTransparentes_13
+  - first:
+      213: 6165632957614752669
+    second: LasersTransparentes_14
+  - first:
+      213: -6864073034854407510
+    second: LasersTransparentes_15
+  - first:
+      213: -2351906777978484871
+    second: LasersTransparentes_16
+  - first:
+      213: -3380538894393575546
+    second: LasersTransparentes_17
+  - first:
+      213: 7118737531260455156
+    second: LasersTransparentes_18
+  - first:
+      213: -4862799448407855634
+    second: LasersTransparentes_19
+  - first:
+      213: 3827508545107574017
+    second: LasersTransparentes_20
+  - first:
+      213: -4868773560641027198
+    second: LasersTransparentes_21
+  - first:
+      213: 3069980490154843144
+    second: LasersTransparentes_22
+  - first:
+      213: -5177734586899834265
+    second: LasersTransparentes_23
+  - first:
+      213: -7280303584321816159
+    second: LasersTransparentes_24
+  - first:
+      213: -7622272247410731414
+    second: LasersTransparentes_25
+  - first:
+      213: 3694204828098819495
+    second: LasersTransparentes_26
+  - first:
+      213: 8489564085285239208
+    second: LasersTransparentes_27
+  - first:
+      213: -7653544520639797837
+    second: LasersTransparentes_28
+  - first:
+      213: -2357908981346533467
+    second: LasersTransparentes_29
+  - first:
+      213: 3128333122013766278
+    second: LasersTransparentes_30
+  - first:
+      213: 2808300342104604815
+    second: LasersTransparentes_31
+  - first:
+      213: -977421272975678744
+    second: LasersTransparentes_32
+  - first:
+      213: 3428239398382766711
+    second: LasersTransparentes_33
+  - first:
+      213: 7429216755619603237
+    second: LasersTransparentes_34
+  - first:
+      213: -4642206433152772359
+    second: LasersTransparentes_35
+  - first:
+      213: -5616318847996201917
+    second: LasersTransparentes_36
+  - first:
+      213: -4602826802627890158
+    second: LasersTransparentes_37
+  - first:
+      213: -64746130616010833
+    second: LasersTransparentes_38
+  - first:
+      213: -145465084123215638
+    second: LasersTransparentes_39
+  - first:
+      213: 691982818598301387
+    second: LasersTransparentes_40
+  - first:
+      213: 6187414519700861167
+    second: LasersTransparentes_41
+  - first:
+      213: -7169246616158392262
+    second: LasersTransparentes_42
+  - first:
+      213: 2432670133007907370
+    second: LasersTransparentes_43
+  - first:
+      213: 6653987268270571046
+    second: LasersTransparentes_44
+  - first:
+      213: 7337147439144465082
+    second: LasersTransparentes_45
+  - first:
+      213: -6422804063362073286
+    second: LasersTransparentes_46
+  - first:
+      213: 1813438820475849017
+    second: LasersTransparentes_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LasersTransparentes_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69daf42277bb75dc0800000000000000
+      internalID: -3650242852609348202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ee031869db3890800000000000000
+      internalID: -7477143715299008014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 205
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f54cbb844c86bba0800000000000000
+      internalID: -6073512821432498701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 211
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8509d0c7a5d6c90800000000000000
+      internalID: -7174979142481323844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478b9e45fb5c0e420800000000000000
+      internalID: 2657341205702621300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 213
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee1b19b869e8db0800000000000000
+      internalID: -4787723827659280696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 178
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dfaeb33ed48b140800000000000000
+      internalID: 4735620646538247514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8750b7e3441ba2e0800000000000000
+      internalID: -2113573318237857909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 198
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0aa80c1b2ca3d0800000000000000
+      internalID: -3194130636308084135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 195
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832ccefef05a0a480800000000000000
+      internalID: -8889924176560995784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 197
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a2459407a8f190800000000000000
+      internalID: -7928403505859876704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 152
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0b3d0530cc2be0800000000000000
+      internalID: -1500613241733443696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 189
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3895bad40bcf6a540800000000000000
+      internalID: 5018976668898515331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd651d1789f55c6a0800000000000000
+      internalID: -6429627784652302629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93811e028ab09550800000000000000
+      internalID: 6165632957614752669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 177
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26a2531f9edb0a0800000000000000
+      internalID: -6864073034854407510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 170
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97742c11f395c5fd0800000000000000
+      internalID: -2351906777978484871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 174
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687774259c9e511d0800000000000000
+      internalID: -3380538894393575546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 172
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f845086116dac260800000000000000
+      internalID: 7118737531260455156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 176
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed2fa77aadd38cb0800000000000000
+      internalID: -4862799448407855634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db8e52eba0e1530800000000000000
+      internalID: 3827508545107574017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 149
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838d221e34ae6cb0800000000000000
+      internalID: -4868773560641027198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 146
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1f078df2ca9a20800000000000000
+      internalID: 3069980490154843144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad49673ddf428b0800000000000000
+      internalID: -5177734586899834265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9be77767a27fa90800000000000000
+      internalID: -7280303584321816159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d3c786cf383690800000000000000
+      internalID: -7622272247410731414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 121
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5fc5ae7b3744330800000000000000
+      internalID: 3694204828098819495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 132
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a937515e8df0d570800000000000000
+      internalID: 8489564085285239208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a0a60fc529c590800000000000000
+      internalID: -7653544520639797837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 137
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff2223646074fd0800000000000000
+      internalID: -2357908981346533467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68228bc56621a6b20800000000000000
+      internalID: 3128333122013766278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80c0c9384619f620800000000000000
+      internalID: 2808300342104604815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2ef54e7808f62f0800000000000000
+      internalID: -977421272975678744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a8a99b19d839f20800000000000000
+      internalID: 3428239398382766711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 111
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523261e0741e91760800000000000000
+      internalID: 7429216755619603237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f655e138d1939fb0800000000000000
+      internalID: -4642206433152772359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344fad7a3c3de02b0800000000000000
+      internalID: -5616318847996201917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214b7bae8697f10c0800000000000000
+      internalID: -4602826802627890158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 116
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa73d0cbcb9f91ff0800000000000000
+      internalID: -64746130616010833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80d95d6443bfdf0800000000000000
+      internalID: -145465084123215638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 61
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea93d05ba6a9900800000000000000
+      internalID: 691982818598301387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 62
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe03ddc29bc1ed550800000000000000
+      internalID: 6187414519700861167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 59
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3035b8df28b18c90800000000000000
+      internalID: -7169246616158392262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a73add89492c120800000000000000
+      internalID: 2432670133007907370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3d398a26b75c50800000000000000
+      internalID: 6653987268270571046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 15
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab27fd6d8b8c2d560800000000000000
+      internalID: 7337147439144465082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3e5ddbbd9dd6a0800000000000000
+      internalID: -6422804063362073286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LasersTransparentes_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939cd5ccff0aa2910800000000000000
+      internalID: 1813438820475849017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: f00e55169e549fb409add614aabcaf8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7408597604984752369
+    second: Light1Inverse_0
+  - first:
+      213: -7123755093471706076
+    second: Light1Inverse_1
+  - first:
+      213: -8874313359068358091
+    second: Light1Inverse_2
+  - first:
+      213: -289353840222754539
+    second: Light1Inverse_3
+  - first:
+      213: -2317742894253578149
+    second: Light1Inverse_4
+  - first:
+      213: -7814118507174068687
+    second: Light1Inverse_5
+  - first:
+      213: -2597399192579661027
+    second: Light1Inverse_6
+  - first:
+      213: -5119997968235204886
+    second: Light1Inverse_7
+  - first:
+      213: -6619748377304643692
+    second: Light1Inverse_8
+  - first:
+      213: -8989639546300045924
+    second: Light1Inverse_9
+  - first:
+      213: 8204396817698614058
+    second: Light1Inverse_10
+  - first:
+      213: -2682996083097123100
+    second: Light1Inverse_11
+  - first:
+      213: -2676463168571112746
+    second: Light1Inverse_12
+  - first:
+      213: 2719253426946079599
+    second: Light1Inverse_13
+  - first:
+      213: -6851699108972898677
+    second: Light1Inverse_14
+  - first:
+      213: -5497038551739521054
+    second: Light1Inverse_15
+  - first:
+      213: 6633892958636374495
+    second: Light1Inverse_16
+  - first:
+      213: 9093090289461636154
+    second: Light1Inverse_17
+  - first:
+      213: -3948960285269282542
+    second: Light1Inverse_18
+  - first:
+      213: 7541348968874006585
+    second: Light1Inverse_19
+  - first:
+      213: 3279467899257096945
+    second: Light1Inverse_20
+  - first:
+      213: 8448071835186089168
+    second: Light1Inverse_21
+  - first:
+      213: 565434094810945882
+    second: Light1Inverse_22
+  - first:
+      213: -3478394376520395212
+    second: Light1Inverse_23
+  - first:
+      213: 8915524608967307702
+    second: Light1Inverse_24
+  - first:
+      213: 4663053876075965770
+    second: Light1Inverse_25
+  - first:
+      213: 2976106494275574081
+    second: Light1Inverse_26
+  - first:
+      213: -2623720630610402243
+    second: Light1Inverse_27
+  - first:
+      213: -2202056231970551239
+    second: Light1Inverse_28
+  - first:
+      213: -503437809950436473
+    second: Light1Inverse_29
+  - first:
+      213: 8175802344660326542
+    second: Light1Inverse_30
+  - first:
+      213: -8647296899207830304
+    second: Light1Inverse_31
+  - first:
+      213: 8915949409792576189
+    second: Light1Inverse_32
+  - first:
+      213: -8808946728729008551
+    second: Light1Inverse_33
+  - first:
+      213: -5302949049162425985
+    second: Light1Inverse_34
+  - first:
+      213: -2988947161285286893
+    second: Light1Inverse_35
+  - first:
+      213: 2857260048843366608
+    second: Light1Inverse_36
+  - first:
+      213: 4088845098757833430
+    second: Light1Inverse_37
+  - first:
+      213: 4356358947499043234
+    second: Light1Inverse_38
+  - first:
+      213: -6542377529974731264
+    second: Light1Inverse_39
+  - first:
+      213: 1004372460206189939
+    second: Light1Inverse_40
+  - first:
+      213: -1272402943576769868
+    second: Light1Inverse_41
+  - first:
+      213: 8595169895668212501
+    second: Light1Inverse_42
+  - first:
+      213: 113524956981926256
+    second: Light1Inverse_43
+  - first:
+      213: 4254101859628446053
+    second: Light1Inverse_44
+  - first:
+      213: -3501953542896540073
+    second: Light1Inverse_45
+  - first:
+      213: 5825723228282477754
+    second: Light1Inverse_46
+  - first:
+      213: -4831867120939469491
+    second: Light1Inverse_47
+  - first:
+      213: 2653906632290564165
+    second: Light1Inverse_48
+  - first:
+      213: 4381208278164722648
+    second: Light1Inverse_49
+  - first:
+      213: 8702218492333998808
+    second: Light1Inverse_50
+  - first:
+      213: 2181282780013390145
+    second: Light1Inverse_51
+  - first:
+      213: 6167167903740491905
+    second: Light1Inverse_52
+  - first:
+      213: 172262524564733558
+    second: Light1Inverse_53
+  - first:
+      213: -2606379243907840367
+    second: Light1Inverse_54
+  - first:
+      213: 3936639995421360837
+    second: Light1Inverse_55
+  - first:
+      213: 7659666867796298202
+    second: Light1Inverse_56
+  - first:
+      213: -7172532831132500777
+    second: Light1Inverse_57
+  - first:
+      213: -3920926420962654992
+    second: Light1Inverse_58
+  - first:
+      213: 2275019611340838981
+    second: Light1Inverse_59
+  - first:
+      213: -4083793669409926481
+    second: Light1Inverse_60
+  - first:
+      213: -8325943687507725887
+    second: Light1Inverse_61
+  - first:
+      213: -5456549010676459504
+    second: Light1Inverse_62
+  - first:
+      213: 6731117829861583786
+    second: Light1Inverse_63
+  - first:
+      213: 2806085320141187150
+    second: Light1Inverse_64
+  - first:
+      213: 6625156232795696217
+    second: Light1Inverse_65
+  - first:
+      213: 2086907351638221668
+    second: Light1Inverse_66
+  - first:
+      213: -1536469788834485221
+    second: Light1Inverse_67
+  - first:
+      213: -9070678047578594615
+    second: Light1Inverse_68
+  - first:
+      213: -2036357981266228020
+    second: Light1Inverse_69
+  - first:
+      213: 1920636591681044293
+    second: Light1Inverse_70
+  - first:
+      213: 6632956719411827063
+    second: Light1Inverse_71
+  - first:
+      213: 6801170089824313114
+    second: Light1Inverse_72
+  - first:
+      213: 8874495750803229691
+    second: Light1Inverse_73
+  - first:
+      213: -2731727177176288365
+    second: Light1Inverse_74
+  - first:
+      213: -5402127801313919717
+    second: Light1Inverse_75
+  - first:
+      213: 2590480935273733302
+    second: Light1Inverse_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light1Inverse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987.4286
+        width: 192
+        height: 164.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f80de0f440a0d660800000000000000
+      internalID: 7408597604984752369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 987.4286
+        width: 192
+        height: 164.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4244dba5c76532d90800000000000000
+      internalID: -7123755093471706076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 987.4286
+        width: 192
+        height: 164.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a1a3f940b18d480800000000000000
+      internalID: -8874313359068358091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 987.4286
+        width: 192
+        height: 164.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a02327320cfbf0800000000000000
+      internalID: -289353840222754539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 987.4286
+        width: 192
+        height: 164.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58645b1e19b5dfd0800000000000000
+      internalID: -2317742894253578149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 192
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e75136e9cae8390800000000000000
+      internalID: -7814118507174068687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 804
+        width: 192
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13276a223f24fbd0800000000000000
+      internalID: -2597399192579661027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 805
+        width: 192
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6e9c89fc12f8b0800000000000000
+      internalID: -5119997968235204886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 804
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497c94c7cede124a0800000000000000
+      internalID: -6619748377304643692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 805
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c956bf736726e3380800000000000000
+      internalID: -8989639546300045924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b654bdf6fdbd170800000000000000
+      internalID: 8204396817698614058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 615
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e64b3d074514cad0800000000000000
+      internalID: -2682996083097123100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 614
+        width: 192
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d207eebdea4bdad0800000000000000
+      internalID: -2676463168571112746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_13
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 613
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b7267a59abcb520800000000000000
+      internalID: 2719253426946079599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 613
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865fc556ffd9e0a0800000000000000
+      internalID: -6851699108972898677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e720fecf8896b3b0800000000000000
+      internalID: -5497038551739521054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 421
+        width: 192
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97c7d7f72501c50800000000000000
+      internalID: 6633892958636374495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 423
+        width: 192
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2ae5e075213e70800000000000000
+      internalID: 9093090289461636154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 423
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21136640b897239c0800000000000000
+      internalID: -3948960285269282542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 423
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385ef07ee048a860800000000000000
+      internalID: 7541348968874006585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa0483dda2038d20800000000000000
+      internalID: 3279467899257096945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 230
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dccf3503949d3570800000000000000
+      internalID: 8448071835186089168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 230
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59d91d3053d8d700800000000000000
+      internalID: 565434094810945882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 229
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43619ce6eb24abfc0800000000000000
+      internalID: -3478394376520395212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 229
+        width: 192
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ffb7356e4abb70800000000000000
+      internalID: 8915524608967307702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d240c5bce76b040800000000000000
+      internalID: 4663053876075965770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1495705a6114d4920800000000000000
+      internalID: 2976106494275574081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 38
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d346a9eccfba69bd0800000000000000
+      internalID: -2623720630610402243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_28
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 41
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac5f52689b071e0800000000000000
+      internalID: -2202056231970551239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 39
+        width: 192
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783576baafd6309f0800000000000000
+      internalID: -503437809950436473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.4285736
+        width: 192
+        height: 164.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88d84b4ae8467170800000000000000
+      internalID: 8175802344660326542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 192
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e461671941aef780800000000000000
+      internalID: -8647296899207830304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3.4285736
+        width: 192
+        height: 164.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba4a0edfb0dbbb70800000000000000
+      internalID: 8915949409792576189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1Inverse_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3.4285736
+        width: 192
+        height: 164.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956a4cc3f9550c580800000000000000
+      internalID: -8808946728729008551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

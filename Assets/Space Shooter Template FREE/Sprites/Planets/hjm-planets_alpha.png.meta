@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 1daaadf631a5f834fba622785166b58c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4840216362269662021
+    second: hjm-planets_alpha_0
+  - first:
+      213: -1009161324717216017
+    second: hjm-planets_alpha_1
+  - first:
+      213: -7610813996730302853
+    second: hjm-planets_alpha_2
+  - first:
+      213: -6166595461459293458
+    second: hjm-planets_alpha_3
+  - first:
+      213: 8464756965808340884
+    second: hjm-planets_alpha_4
+  - first:
+      213: -4730493633996779981
+    second: hjm-planets_alpha_5
+  - first:
+      213: 2259625475170406142
+    second: hjm-planets_alpha_6
+  - first:
+      213: -7913178923997633938
+    second: hjm-planets_alpha_7
+  - first:
+      213: 8427912167009204777
+    second: hjm-planets_alpha_8
+  - first:
+      213: -2235472954956362886
+    second: hjm-planets_alpha_9
+  - first:
+      213: 168825624958474772
+    second: hjm-planets_alpha_10
+  - first:
+      213: -5083740248355385126
+    second: hjm-planets_alpha_11
+  - first:
+      213: 4897270001093662672
+    second: hjm-planets_alpha_12
+  - first:
+      213: -8186892485875625963
+    second: hjm-planets_alpha_13
+  - first:
+      213: 4986587073183975617
+    second: hjm-planets_alpha_14
+  - first:
+      213: 8870978131062946171
+    second: hjm-planets_alpha_15
+  - first:
+      213: -1507408442088035467
+    second: hjm-planets_alpha_16
+  - first:
+      213: 7027411970650749707
+    second: hjm-planets_alpha_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hjm-planets_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 876
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb422e2fcd814dcb0800000000000000
+      internalID: -4840216362269662021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 869
+        width: 289
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeea273f1dbef1f0800000000000000
+      internalID: -1009161324717216017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 882
+        width: 287
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb1596ef4f06690800000000000000
+      internalID: -7610813996730302853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 884
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeace2e891adb6aa0800000000000000
+      internalID: -6166595461459293458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 889
+        width: 288
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff409bc9bd87570800000000000000
+      internalID: 8464756965808340884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 898
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e00656a19e95eb0800000000000000
+      internalID: -4730493633996779981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 519
+        width: 297
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe84fcc56dcb5f10800000000000000
+      internalID: 2259625475170406142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 526
+        width: 288
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626307c1bdbe2290800000000000000
+      internalID: -7913178923997633938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 540
+        width: 289
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ab6c08675f5f470800000000000000
+      internalID: 8427912167009204777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 547
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b45d601310af0e0800000000000000
+      internalID: -2235472954956362886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 554
+        width: 285
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a12ace20ac75200800000000000000
+      internalID: 168825624958474772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 556
+        width: 289
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0db6ecd2de279b0800000000000000
+      internalID: -5083740248355385126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 185
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d75d508e1996f340800000000000000
+      internalID: 4897270001093662672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 204
+        width: 643
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510911df8a0526e80800000000000000
+      internalID: -8186892485875625963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 211
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c88fa2e58ae33540800000000000000
+      internalID: 4986587073183975617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 221
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79f3481c9b0c1b70800000000000000
+      internalID: 8870978131062946171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 220
+        width: 288
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57beaed220c941be0800000000000000
+      internalID: -1507408442088035467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-planets_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 223
+        width: 288
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b37f854f1668160800000000000000
+      internalID: 7027411970650749707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
