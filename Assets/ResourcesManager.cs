@@ -144,6 +144,9 @@ public class ResourcesManager : MonoBehaviour
         StartCoroutine(GetTimer(true));
     }
 
+    public void ExitGame() {
+        Application.Quit();
+    }
     IEnumerator Set200Hearts()
     {
         yield return new WaitForSeconds(0.1f);

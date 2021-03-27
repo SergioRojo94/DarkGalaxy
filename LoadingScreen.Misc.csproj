@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AF5C71D3-E5B9-5237-253C-2589A050BA54}</ProjectGuid>
+    <ProjectGuid>{11CCA27B-C976-03FF-9EDF-1FB602E73310}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LoadingScreen.Misc</AssemblyName>

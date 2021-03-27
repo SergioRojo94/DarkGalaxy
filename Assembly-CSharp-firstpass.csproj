@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0DA6FFA5-B04E-0CD7-CF62-F702BCE18AFC}</ProjectGuid>
+    <ProjectGuid>{A6F41F19-EEBC-A20C-F8E1-A82BAFA3F537}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -766,23 +766,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LoadingScreen.Misc.csproj">
-      <Project>{AF5C71D3-E5B9-5237-253C-2589A050BA54}</Project>
+      <Project>{11CCA27B-C976-03FF-9EDF-1FB602E73310}</Project>
       <Name>LoadingScreen.Misc</Name>
     </ProjectReference>
     <ProjectReference Include="TextMeshProEffect.csproj">
-      <Project>{D509AD72-F408-8BB0-01E4-B26212886BC5}</Project>
+      <Project>{A6AD6E20-3F04-8584-17A8-8935D5AC7F18}</Project>
       <Name>TextMeshProEffect</Name>
     </ProjectReference>
     <ProjectReference Include="GoogleMobileAds.csproj">
-      <Project>{1BCB7C95-4089-CA65-0330-3CB5E6C0970F}</Project>
+      <Project>{AF1E0F1A-8623-2E60-4C0B-EF9606FA6627}</Project>
       <Name>GoogleMobileAds</Name>
     </ProjectReference>
     <ProjectReference Include="GoogleMobileAds.Editor.csproj">
-      <Project>{33C3F9CC-1F5F-ED07-B81B-7F62768D036C}</Project>
+      <Project>{8BB2ADBC-32E1-ED33-DE36-EFA96E4B0A1E}</Project>
       <Name>GoogleMobileAds.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="TextMeshProEffect.Editor.csproj">
-      <Project>{FA111E86-DECF-3DB7-3515-345AF1136A96}</Project>
+      <Project>{CB1190AF-FF0A-502F-D4A3-8E36972B245A}</Project>
       <Name>TextMeshProEffect.Editor</Name>
     </ProjectReference>
   </ItemGroup>
