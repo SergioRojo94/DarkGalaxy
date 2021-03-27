@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FA111E86-DECF-3DB7-3515-345AF1136A96}</ProjectGuid>
+    <ProjectGuid>{CB1190AF-FF0A-502F-D4A3-8E36972B245A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>TextMeshProEffect.Editor</AssemblyName>
@@ -672,7 +672,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="TextMeshProEffect.csproj">
-      <Project>{D509AD72-F408-8BB0-01E4-B26212886BC5}</Project>
+      <Project>{A6AD6E20-3F04-8584-17A8-8935D5AC7F18}</Project>
       <Name>TextMeshProEffect</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1BCB7C95-4089-CA65-0330-3CB5E6C0970F}</ProjectGuid>
+    <ProjectGuid>{AF1E0F1A-8623-2E60-4C0B-EF9606FA6627}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>GoogleMobileAds</AssemblyName>

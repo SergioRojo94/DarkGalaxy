@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{33C3F9CC-1F5F-ED07-B81B-7F62768D036C}</ProjectGuid>
+    <ProjectGuid>{8BB2ADBC-32E1-ED33-DE36-EFA96E4B0A1E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>GoogleMobileAds.Editor</AssemblyName>
@@ -678,7 +678,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="GoogleMobileAds.csproj">
-      <Project>{1BCB7C95-4089-CA65-0330-3CB5E6C0970F}</Project>
+      <Project>{AF1E0F1A-8623-2E60-4C0B-EF9606FA6627}</Project>
       <Name>GoogleMobileAds</Name>
     </ProjectReference>
   </ItemGroup>

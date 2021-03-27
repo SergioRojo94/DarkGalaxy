@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D509AD72-F408-8BB0-01E4-B26212886BC5}</ProjectGuid>
+    <ProjectGuid>{A6AD6E20-3F04-8584-17A8-8935D5AC7F18}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>TextMeshProEffect</AssemblyName>
