@@ -55,13 +55,13 @@ public class ResourcesManager : MonoBehaviour
         hearts = PlayerPrefs.GetInt("Hearts");
         Reset();
         CheckMaxHearts();
-       /* Debug.Log("GraussSkin" + PlayerPrefs.GetInt("ObtainCosmosGrauss"));
-        PlayerPrefs.SetInt("ObtainApacheNebula", 0);
-        PlayerPrefs.SetInt("ObtainCupidNebula", 0);
-        PlayerPrefs.SetInt("ObtainCosmosGrauss", 0);
-        PlayerPrefs.SetInt("ObtainGrauss", 0);
-        PlayerPrefs.SetInt("ApacheNebulaSkin", 0);
-        PlayerPrefs.SetInt("GraussSkin", 0);*/
+        /* Debug.Log("GraussSkin" + PlayerPrefs.GetInt("ObtainCosmosGrauss"));
+         PlayerPrefs.SetInt("ObtainApacheNebula", 0);
+         PlayerPrefs.SetInt("ObtainCupidNebula", 0);
+         PlayerPrefs.SetInt("ObtainCosmosGrauss", 0);
+         PlayerPrefs.SetInt("ObtainGrauss", 0);
+         PlayerPrefs.SetInt("ApacheNebulaSkin", 0);
+         PlayerPrefs.SetInt("GraussSkin", 0);*/
         /* PlayerPrefs.SetInt("Hearts", 200);
            PlayerPrefs.SetInt("Gems", 0);
            PlayerPrefs.SetFloat("Coins", 0);
