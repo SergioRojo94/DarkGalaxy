@@ -89,7 +89,6 @@ public class Player : MonoBehaviour
         equipCupidN = PlayerPrefs.GetInt("ApacheNebulaSkin");
         unlockCGrauss = PlayerPrefs.GetInt("ObtainCosmosGrauss");
         equipCGrauss = PlayerPrefs.GetInt("GraussSkin");
-        Debug.Log("CGRAUSS:" + equipCGrauss);
         #endregion
 
 

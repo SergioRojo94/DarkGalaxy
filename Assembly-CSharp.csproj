@@ -97,6 +97,7 @@
     <Compile Include="Assets\EnemyHunted.cs" />
     <Compile Include="Assets\MultiplyCoins.cs" />
     <Compile Include="Assets\ResetTimeHeartsButton.cs" />
+    <Compile Include="Assets\ResetTimeSpecialOffer.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\UI\GOCanvasManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\Loading Screen\Content\Scripts\Internal\ReorderableList\ReorderableArray.cs" />
@@ -108,6 +109,7 @@
     <Compile Include="Assets\ShipPatrol.cs" />
     <Compile Include="Assets\UIManagerLevelSelection02.cs" />
     <Compile Include="Assets\EnableGameObject.cs" />
+    <Compile Include="Assets\MobileNotifications.cs" />
     <Compile Include="Assets\SA_SkyWarriorBehaviour.cs" />
     <Compile Include="Assets\Nebula1.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Bosses\EldritchDragon\DarkTentacleBehaviour.cs" />
@@ -187,8 +189,8 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\Skins.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
-    <Compile Include="Assets\Space Shooter Template FREE\Scripts\DarkPause.cs" />
-    <Compile Include="Assets\Space Shooter Template FREE\Scripts\CheckInternet.cs" />
+    <Compile Include="Assets\Space Shooter Template FREE\Scripts\UI\DarkPause.cs" />
+    <Compile Include="Assets\Space Shooter Template FREE\Scripts\UI\CheckInternet.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\UI\FortuneWheelManager.cs" />
     <Compile Include="Assets\EnemyHuntedShip.cs" />
     <Compile Include="Assets\SwitchWorldName.cs" />
@@ -212,8 +214,7 @@
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Projectile.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\VisualEffect.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Level Selection\LevelSelection.cs" />
-    <Compile Include="Assets\ResetTimeSpecialOffer.cs" />
-    <Compile Include="Assets\MobileNotifications.cs" />
+    <Compile Include="Assets\NewUpdatesPopupUI.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Space Shooter Template FREE\Sprites\Planets\_ew Planets\README.txt" />
@@ -813,6 +814,9 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Notifications">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
     </Reference>
@@ -858,6 +862,9 @@
     <Reference Include="PsdPlugin">
       <HintPath>Library\ScriptAssemblies\PsdPlugin.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Notifications.iOS">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.iOS.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
@@ -875,6 +882,9 @@
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Notifications.Android">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.Android.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll</HintPath>
@@ -917,15 +927,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Notifications">
-      <HintPath>Library\ScriptAssemblies\Unity.Notifications.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Notifications.iOS">
-      <HintPath>Library\ScriptAssemblies\Unity.Notifications.iOS.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Notifications.Android">
-      <HintPath>Library\ScriptAssemblies\Unity.Notifications.Android.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
