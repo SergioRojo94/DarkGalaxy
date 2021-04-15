@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Space Shooter Template FREE/Scenes/MainMenu.unity
+- path: Assets/Space Shooter Template FREE/Scenes/LoadingScreen.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

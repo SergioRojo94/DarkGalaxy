@@ -509,6 +509,11 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 11433726, guid: 8f4c1f1d1d2e4ee41b5451605ae6f346, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b702d021791394a419d81eb4601ef4b1,
+        type: 3}
+    - target: {fileID: 11433726, guid: 8f4c1f1d1d2e4ee41b5451605ae6f346, type: 3}
       propertyPath: m_PreserveAspect
       value: 1
       objectReference: {fileID: 0}
@@ -543,6 +548,14 @@ PrefabInstance:
     - target: {fileID: 11479952, guid: 8f4c1f1d1d2e4ee41b5451605ae6f346, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 22400448, guid: 8f4c1f1d1d2e4ee41b5451605ae6f346, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 9.699951
+      objectReference: {fileID: 0}
+    - target: {fileID: 22404700, guid: 8f4c1f1d1d2e4ee41b5451605ae6f346, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 13.300049
       objectReference: {fileID: 0}
     - target: {fileID: 22414670, guid: 8f4c1f1d1d2e4ee41b5451605ae6f346, type: 3}
       propertyPath: m_AnchorMax.x

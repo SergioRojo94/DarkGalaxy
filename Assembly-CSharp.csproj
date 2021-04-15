@@ -130,6 +130,7 @@
     <Compile Include="Assets\UIManagerLevelSelection01.cs" />
     <Compile Include="Assets\AdsScriptDailyHearts.cs" />
     <Compile Include="Assets\SpecialAttackCanvas.cs" />
+    <Compile Include="Assets\NewUpdatesPopupUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Fade.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Travel.cs" />
@@ -214,7 +215,7 @@
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Projectile.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\VisualEffect.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Level Selection\LevelSelection.cs" />
-    <Compile Include="Assets\NewUpdatesPopupUI.cs" />
+    <Compile Include="Assets\Space Shooter Template FREE\Scripts\DataFromServer\DataFromDrive.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Space Shooter Template FREE\Sprites\Planets\_ew Planets\README.txt" />
