@@ -9,7 +9,7 @@ public class AdsManagerLuckyDraw : MonoBehaviour
     private void Start()
     {
         fwm = FindObjectOfType<FortuneWheelManager>();
-        Yodo1U3dMas.InitializeSdk();
+       // Yodo1U3dMas.InitializeSdk();
     }
 
 

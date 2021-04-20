@@ -1214,6 +1214,11 @@ PrefabInstance:
       propertyPath: enemyWaves.Array.data[27].timeToStart
       value: 42
       objectReference: {fileID: 0}
+    - target: {fileID: 7363484020382349923, guid: 01cf4a33fc66cde4abc060ccfeadeb5a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01cf4a33fc66cde4abc060ccfeadeb5a, type: 3}
 --- !u!1 &974050357 stripped

@@ -3470,6 +3470,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scene: MainMenu
+  playerSelec: 0
+  shopShip: 0
 --- !u!114 &900496089
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4073,7 +4075,7 @@ MonoBehaviour:
   AutoPlay: 1
   Repeat: 1
   ForWords: 
-  IsFinished: 1
+  IsFinished: 0
 --- !u!114 &1088464547
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7115,9 +7117,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: AdsScriptLuckyDraw, Assembly-CSharp
-        m_MethodName: CreateAndLoadRewardedAd
+      - m_Target: {fileID: 900496092}
+        m_TargetAssemblyTypeName: AdsManagerLuckyDraw, Assembly-CSharp
+        m_MethodName: ShowVideoReward
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -14662,7 +14662,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1510184446397956}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0eb41f2cd4a34c640ab7314296953cc9, type: 3}
   m_Name: 
@@ -14689,6 +14689,7 @@ MonoBehaviour:
   maxPower: 0
   specialAttack: 2
   nameShip: 
+  skins: 0
   coinButton: 0
   eurButton: 0
   gemButton: 0
@@ -14697,7 +14698,6 @@ MonoBehaviour:
   gemPrice: 0
   unlocked: 1
   Engine: {fileID: 1511134553118932}
-  QuestionMark: {fileID: 0}
   StartButton: {fileID: 0}
   OuterSpaceName: {fileID: 0}
   AsteroidNebulaName: {fileID: 0}
@@ -14708,7 +14708,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1510184446397956}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c089f20f9a699574f8238edac2f9da56, type: 3}
   m_Name: 
@@ -14730,7 +14730,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1510184446397956}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f36bb360669b0a545b93ce92d3d0abe9, type: 3}
   m_Name: 
@@ -14757,7 +14757,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1510184446397956}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -14790,8 +14790,8 @@ SpriteRenderer:
   m_SortingLayerID: -1892585311
   m_SortingLayer: 6
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f6d9e7337b90b9e4ba6d44379335a759, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_Sprite: {fileID: 21300000, guid: 7cb3b72029af7914993fe71324a85948, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -14808,7 +14808,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1510184446397956}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -14818,7 +14818,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.048, y: 2.048}
+    oldSize: {x: 1.24, y: 1.35}
     newSize: {x: 2.048, y: 2.048}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -24499,6 +24499,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: 1 - Initial Soldier
       objectReference: {fileID: 0}
+    - target: {fileID: 1011568250173727805, guid: 187966d8ba8499d49842b5d009eaa624,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1017228746221432255, guid: 187966d8ba8499d49842b5d009eaa624,
         type: 3}
       propertyPath: m_RootOrder
@@ -24659,6 +24664,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 'InitialWelcome '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1011568250173727805, guid: 51d5a7371854fb84690f1eb26cf0da19,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1017228746221432255, guid: 51d5a7371854fb84690f1eb26cf0da19,
         type: 3}

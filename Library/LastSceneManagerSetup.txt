@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Space Shooter Template FREE/Scenes/MainMenu.unity
+- path: Assets/Space Shooter Template FREE/Scenes/1 -Outer Space/1.9.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

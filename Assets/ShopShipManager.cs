@@ -9,7 +9,7 @@ public class ShopShipManager : MonoBehaviour
     private float coins;
 
     public TextMeshProUGUI coinsText, heartsText, gemsText;
-    public Button skinButton;// IMPLEMENTED FOR SKINS
+   // public Button skinButton;// IMPLEMENTED FOR SKINS
     private Player _player;
 
     [SerializeField]
@@ -27,19 +27,19 @@ public class ShopShipManager : MonoBehaviour
     void Start()
     {
         _player = FindObjectOfType<Player>();
-        CheckSkin();
+        //CheckSkin();
         CheckSpecialShips();
     }
 
     void Update()
     {
         _player = FindObjectOfType<Player>();
-        CheckSkin();
+     //   CheckSkin();
         CheckSpecialShips();
     }
 
     //If selected ship has skins, appears skin button
-    void CheckSkin() {
+  /*  void CheckSkin() {
         //TODO IF GALAXY RAZOR HAS SKIN, CHANGE THIS
         //If you have new skins, skin button must be activated 
         if (_player.nameShip == "Apache Nebula" || _player.nameShip == "Cupid Nebula" || _player.nameShip == "Initial Soldier" || _player.nameShip == "Grauss" || _player.nameShip == "Cosmos Grauss"
@@ -51,7 +51,7 @@ public class ShopShipManager : MonoBehaviour
         {
             skinButton.gameObject.SetActive(false);
         }
-    }
+    }*/
 
     //Method used for enable/ disable informative text of special ships
     void CheckSpecialShips() {
