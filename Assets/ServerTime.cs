@@ -22,11 +22,20 @@ public class ServerTime : MonoBehaviour
     double totalSecs;
 
     bool isInit = false, isFin = false;
+    private int firstTimeRoulette;
 
     private FortuneWheelManager _ftm;
 
     private void Start()
     {
+        firstTimeRoulette = PlayerPrefs.GetInt("FirstTimeRoulette");
+        if (firstTimeRoulette == 0)
+        {
+            TurnButton.interactable = true;
+            TurnButton.enabled = true;
+            firstTimeRoulette = 1;
+
+        }
         if (isFin)
         {
             TurnButton.interactable = true;

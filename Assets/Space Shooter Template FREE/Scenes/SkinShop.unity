@@ -3242,7 +3242,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 11.2, y: 0.14999962}
+  m_AnchoredPosition: {x: 11.199997, y: 0.14999962}
   m_SizeDelta: {x: -35.00003, y: 10.686829}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1015486753
@@ -4391,6 +4391,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scene: ShopShip
+  playerSelec: 0
+  shopShip: 0
 --- !u!114 &1388049781
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6266,7 +6268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 202502903953b7d4d84a14f3916a17e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  verticalSize: 5
+  verticalSize: 3.5
 --- !u!114 &2001277534
 MonoBehaviour:
   m_ObjectHideFlags: 0

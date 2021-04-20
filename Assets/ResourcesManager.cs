@@ -4,6 +4,8 @@ using System.Globalization;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Networking;
+using Yodo1.MAS; //Monetization with Yodo1
+
 
 public class ResourcesManager : MonoBehaviour
 {
@@ -13,6 +15,8 @@ public class ResourcesManager : MonoBehaviour
     public TextMeshProUGUI coinsText, heartsText, gemsText, maxHeartsText;
 
     #region canvas that appears in some events
+    public GameObject WelcomeCanvas;
+
     public bool showObtainEDCanvas = false;
     public GameObject ObtainEDCanvas;
     private int obtainED, eDRewardCanvas;
@@ -34,18 +38,22 @@ public class ResourcesManager : MonoBehaviour
 
     private void Awake()
     {
+        //PlayerPrefs.SetInt("FirstTime", 0);
         int fromShop = PlayerPrefs.GetInt("FromShop");
         if (fromShop == 0)
         {
             PlayerPrefs.SetInt("PlayerSelec", 0);
         }
+        Yodo1U3dMas.SetCOPPA(false); //App for age 13 and above
     }
     void Start()
     {
+        Yodo1U3dMas.InitializeSdk();
         //PlayerPrefs.SetInt("UnlockWorld2", 1);
         firstTime = PlayerPrefs.GetInt("FirstTime"); //assigns energy first time player connects
         if (firstTime == 0)
         {
+            WelcomeCanvas.SetActive(true);
             PlayerPrefs.SetInt("Hearts", 200);
             StartCoroutine(Set200Hearts());
         }

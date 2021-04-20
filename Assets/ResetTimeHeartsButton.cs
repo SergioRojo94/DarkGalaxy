@@ -21,11 +21,20 @@ public class ResetTimeHeartsButton : MonoBehaviour
     double totalSecs;
 
     bool isInit = false, isFin = false;
-
+    private int firstTimeFreeResources;
     void Start()
     {
-        /* GainCoinButton.interactable = false;*/
-        //GainCoinButton.enabled = false;
+        firstTimeFreeResources = PlayerPrefs.GetInt("FirstTimeFreeResources"); //assigns energy first time player connects
+        if (firstTimeFreeResources == 0)
+        {
+            isFin = true;
+            textTime.text = "FINALIZADO";
+            PlayerPrefs.SetString(retencionHeartsWinName, "-1");
+            GainHeartsButton.interactable = true;
+            GainHeartsButton.gameObject.SetActive(true);
+            firstTimeFreeResources = 1;
+            return;
+        }
         bool iniciar = false;
         textTime.text = "CARGANDO...";
         if (PlayerPrefs.HasKey(retencionHeartsWinName))

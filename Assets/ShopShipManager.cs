@@ -12,6 +12,8 @@ public class ShopShipManager : MonoBehaviour
     public Button skinButton;// IMPLEMENTED FOR SKINS
     private Player _player;
 
+    [SerializeField]
+    private TextMeshProUGUI obtainStarHawkText, obtainEldritchSpearText;
     private void Awake()
     {
         coins = PlayerPrefs.GetFloat("Coins") / 1000;
@@ -25,10 +27,23 @@ public class ShopShipManager : MonoBehaviour
     void Start()
     {
         _player = FindObjectOfType<Player>();
+        CheckSkin();
+        CheckSpecialShips();
+    }
+
+    void Update()
+    {
+        _player = FindObjectOfType<Player>();
+        CheckSkin();
+        CheckSpecialShips();
+    }
+
+    //If selected ship has skins, appears skin button
+    void CheckSkin() {
         //TODO IF GALAXY RAZOR HAS SKIN, CHANGE THIS
         //If you have new skins, skin button must be activated 
         if (_player.nameShip == "Apache Nebula" || _player.nameShip == "Cupid Nebula" || _player.nameShip == "Initial Soldier" || _player.nameShip == "Grauss" || _player.nameShip == "Cosmos Grauss"
-            || _player.nameShip == "Initial Welcome")
+               || _player.nameShip == "Initial Welcome")
         {
             skinButton.gameObject.SetActive(true);
         }
@@ -38,17 +53,18 @@ public class ShopShipManager : MonoBehaviour
         }
     }
 
-    void Update()
-    {
-        _player = FindObjectOfType<Player>();
-        if (_player.nameShip == "Apache Nebula" || _player.nameShip == "Cupid Nebula" || _player.nameShip == "Initial Soldier" || _player.nameShip == "Grauss" || _player.nameShip == "Cosmos Grauss"
-            || _player.nameShip == "Initial Welcome")
-        {
-            skinButton.gameObject.SetActive(true);
+    //Method used for enable/ disable informative text of special ships
+    void CheckSpecialShips() {
+        if (_player.nameShip == "Star Hawk") {
+            obtainStarHawkText.gameObject.SetActive(true);
         }
         else
-        {
-            skinButton.gameObject.SetActive(false);
+            obtainStarHawkText.gameObject.SetActive(false);
+
+        if (_player.nameShip == "Eldritch Spear") {
+            obtainEldritchSpearText.gameObject.SetActive(true);
         }
+        else
+            obtainEldritchSpearText.gameObject.SetActive(false);
     }
 }

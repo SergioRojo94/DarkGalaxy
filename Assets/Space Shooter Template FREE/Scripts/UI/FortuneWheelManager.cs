@@ -4,7 +4,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System;
 using TMPro;
-using GoogleMobileAds.Api;
 
 public class FortuneWheelManager : MonoBehaviour
 {
@@ -26,7 +25,6 @@ public class FortuneWheelManager : MonoBehaviour
     public float coins;
     public float PreviousCoinsAmount, PreviousHeartsAmount, PreviousGemsAmount;		// For wasted coins animation
     public TextMeshProUGUI coinsText, heartsText, gemsText;
-    private RewardedAd rewardedAd;
     #endregion
 
     //private bool GiveAward = false;
@@ -53,10 +51,6 @@ public class FortuneWheelManager : MonoBehaviour
     
     }*/
 
-    private void Start()
-    {
-        MobileAds.Initialize(initStatus => { });
-    }
     public void TurnWheel()
     {
         StartCoroutine(TurnWheelRoutine());

@@ -14689,15 +14689,15 @@ MonoBehaviour:
   maxPower: 3
   specialAttack: 3
   nameShip: Grauss
+  skins: 0
   coinButton: 1
   eurButton: 0
   gemButton: 1
-  coinPrice: 250
+  coinPrice: 290
   eurPrice: 0
   gemPrice: 120
   unlocked: 0
   Engine: {fileID: 1511134553118932}
-  QuestionMark: {fileID: 0}
   StartButton: {fileID: 0}
   OuterSpaceName: {fileID: 0}
   AsteroidNebulaName: {fileID: 0}
@@ -29408,6 +29408,7 @@ MonoBehaviour:
   maxPower: 3
   specialAttack: 3
   nameShip: Grauss
+  skins: 0
   coinButton: 1
   eurButton: 0
   gemButton: 1
@@ -29416,7 +29417,6 @@ MonoBehaviour:
   gemPrice: 120
   unlocked: 0
   Engine: {fileID: 6125093520228498929}
-  QuestionMark: {fileID: 0}
   StartButton: {fileID: 0}
   OuterSpaceName: {fileID: 0}
   AsteroidNebulaName: {fileID: 0}
