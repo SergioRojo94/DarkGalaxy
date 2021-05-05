@@ -1,11 +1,11 @@
-﻿using GoogleMobileAds.Api;
+﻿
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class AdsScriptDailyCoins : MonoBehaviour
 {
-    private GainResources gr;
+   /* private GainResources gr;
     private RewardedAd rewardedAd;
     void Start()
     {
@@ -47,5 +47,5 @@ public class AdsScriptDailyCoins : MonoBehaviour
     private void RewardedAd_OnAdClosed(object sender, System.EventArgs e)
     {
         //ad has been closed
-    }
+    }*/
 }

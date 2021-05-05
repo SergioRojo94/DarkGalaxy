@@ -10028,16 +10028,18 @@ MonoBehaviour:
   maxPower: 4
   specialAttack: 2
   nameShip: Cosmos Ranger
+  skins: 0
   coinButton: 1
   eurButton: 0
   gemButton: 1
-  coinPrice: 215
+  coinPrice: 235
   eurPrice: 0
   gemPrice: 75
   unlocked: 0
   Engine: {fileID: 9062018878056014992}
-  QuestionMark: {fileID: 0}
   StartButton: {fileID: 0}
+  OuterSpaceName: {fileID: 0}
+  AsteroidNebulaName: {fileID: 0}
 --- !u!114 &9062018878214848452
 MonoBehaviour:
   m_ObjectHideFlags: 0

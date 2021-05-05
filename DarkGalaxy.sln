@@ -1,9 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{CAAF77D7-A79F-4543-1B01-D681310CBBB9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds", "GoogleMobileAds.csproj", "{AF1E0F1A-8623-2E60-4C0B-EF9606FA6627}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadingScreen.Misc", "LoadingScreen.Misc.csproj", "{11CCA27B-C976-03FF-9EDF-1FB602E73310}"
 EndProject
@@ -12,8 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMeshProEffect", "TextMeshProEffect.csproj", "{A6AD6E20-3F04-8584-17A8-8935D5AC7F18}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{98A8C3AF-CB79-9441-A9E5-D999AF3BBF12}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{8BB2ADBC-32E1-ED33-DE36-EFA96E4B0A1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{13E2FC44-C01D-F987-0ECD-640124C7AA92}"
 EndProject
@@ -29,10 +25,6 @@ Global
 		{CAAF77D7-A79F-4543-1B01-D681310CBBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAAF77D7-A79F-4543-1B01-D681310CBBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAAF77D7-A79F-4543-1B01-D681310CBBB9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF1E0F1A-8623-2E60-4C0B-EF9606FA6627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF1E0F1A-8623-2E60-4C0B-EF9606FA6627}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF1E0F1A-8623-2E60-4C0B-EF9606FA6627}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF1E0F1A-8623-2E60-4C0B-EF9606FA6627}.Release|Any CPU.Build.0 = Release|Any CPU
 		{11CCA27B-C976-03FF-9EDF-1FB602E73310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{11CCA27B-C976-03FF-9EDF-1FB602E73310}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11CCA27B-C976-03FF-9EDF-1FB602E73310}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -49,10 +41,6 @@ Global
 		{98A8C3AF-CB79-9441-A9E5-D999AF3BBF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A8C3AF-CB79-9441-A9E5-D999AF3BBF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A8C3AF-CB79-9441-A9E5-D999AF3BBF12}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BB2ADBC-32E1-ED33-DE36-EFA96E4B0A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BB2ADBC-32E1-ED33-DE36-EFA96E4B0A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BB2ADBC-32E1-ED33-DE36-EFA96E4B0A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BB2ADBC-32E1-ED33-DE36-EFA96E4B0A1E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{13E2FC44-C01D-F987-0ECD-640124C7AA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{13E2FC44-C01D-F987-0ECD-640124C7AA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13E2FC44-C01D-F987-0ECD-640124C7AA92}.Release|Any CPU.ActiveCfg = Release|Any CPU

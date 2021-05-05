@@ -369,6 +369,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 185713042856291522, guid: f920a7190a3704f449d3ccd9d8407fc2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 186499738595305386, guid: f920a7190a3704f449d3ccd9d8407fc2,
         type: 3}
       propertyPath: m_RootOrder
@@ -469,6 +474,7 @@ MonoBehaviour:
   continueCanvas: {fileID: 0}
   PauseCanvas: {fileID: 0}
   PointsCanvas: {fileID: 0}
+  continueButton: {fileID: 0}
   canPause: 0
   song: 
   hype: 0
@@ -1175,6 +1181,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 56.299988
       objectReference: {fileID: 0}
+    - target: {fileID: 7363484020382349923, guid: 01cf4a33fc66cde4abc060ccfeadeb5a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7787455564990818992, guid: 01cf4a33fc66cde4abc060ccfeadeb5a,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -1235,7 +1246,8 @@ PrefabInstance:
       propertyPath: m_UiScaleMode
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2983397287511588334, guid: 01cf4a33fc66cde4abc060ccfeadeb5a, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 01cf4a33fc66cde4abc060ccfeadeb5a, type: 3}
 --- !u!1001 &1198353713
 PrefabInstance:

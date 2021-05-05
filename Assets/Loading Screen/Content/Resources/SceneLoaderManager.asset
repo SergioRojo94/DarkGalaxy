@@ -484,6 +484,78 @@ MonoBehaviour:
       LoadingType: 0
       FakeLoadingTime: 2
       Backgrounds: []
+    - SceneName: InitialScene
+      SceneAsset: {fileID: 102900000, guid: 6354e7ca6dae03946aea1b717c682d7c, type: 3}
+      DisplayName: InitialScene
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: 1.21
+      SceneAsset: {fileID: 102900000, guid: a6bf00d8d1cbc98458b4f0a60ee5f4cd, type: 3}
+      DisplayName: 1.21
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: 1.22
+      SceneAsset: {fileID: 102900000, guid: 8139143c3c97fd746929c71065cda4f9, type: 3}
+      DisplayName: 1.22
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: 1.23
+      SceneAsset: {fileID: 102900000, guid: 686fef7af04b47b4d9e0596b5d9fc419, type: 3}
+      DisplayName: 1.23
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: 1.24
+      SceneAsset: {fileID: 102900000, guid: 324df25752349f245b90ce53fe54897b, type: 3}
+      DisplayName: 1.24
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: 1.25
+      SceneAsset: {fileID: 102900000, guid: ab76c4b9b16dbbc4fb21d042e424b5bd, type: 3}
+      DisplayName: 1.25
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: 1.26
+      SceneAsset: {fileID: 102900000, guid: f2f62eef4e0d28d41a7843d054d25d85, type: 3}
+      DisplayName: 1.26
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: 1.27
+      SceneAsset: {fileID: 102900000, guid: 8a548bca329e5f549878bad94eb3c719, type: 3}
+      DisplayName: 1.27
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: 1.28
+      SceneAsset: {fileID: 102900000, guid: 3c23d6d4ae7344344a6cce3d0a5e6a15, type: 3}
+      DisplayName: 1.28
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
   TipList:
     array:
     - Get Gems to unlock new Ships

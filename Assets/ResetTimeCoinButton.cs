@@ -21,11 +21,25 @@ public class ResetTimeCoinButton : MonoBehaviour
     double totalSecs;
 
     bool isInit = false, isFin = false;
-
+    private int firstTimeFreeResources;
     void Start()
     {
-       /* GainCoinButton.interactable = false;*/
+        /* GainCoinButton.interactable = false;*/
         //GainCoinButton.enabled = false;
+
+        firstTimeFreeResources = PlayerPrefs.GetInt("FirstTimeFreeResources"); //assigns energy first time player connects
+        if (firstTimeFreeResources == 0)
+        {
+            isFin = true;
+            textTime.text = "FINALIZADO";
+            PlayerPrefs.SetString(retencionCoinName, "-1");
+            GainCoinButton.interactable = true;
+            GainCoinButton.gameObject.SetActive(true);
+            firstTimeFreeResources = 1;
+            PlayerPrefs.SetInt("FirstTimeFreeResources", firstTimeFreeResources);
+            return;
+        }
+
         bool iniciar = false;
         textTime.text = "CARGANDO...";
         if (PlayerPrefs.HasKey(retencionCoinName))

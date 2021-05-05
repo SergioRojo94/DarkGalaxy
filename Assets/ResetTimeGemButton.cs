@@ -21,11 +21,20 @@ public class ResetTimeGemButton : MonoBehaviour
     double totalSecs;
 
     bool isInit = false, isFin = false;
-
+    private int firstTimeFreeResources;
     void Start()
     {
-        /* GainCoinButton.interactable = false;*/
-        //GainCoinButton.enabled = false;
+        firstTimeFreeResources = PlayerPrefs.GetInt("FirstTimeFreeResources"); //assigns energy first time player connects
+        if (firstTimeFreeResources == 0)
+        {
+            isFin = true;
+            textTime.text = "FINALIZADO";
+            PlayerPrefs.SetString(retencionGemsName, "-1");
+            GainGemsButton.interactable = true;
+            GainGemsButton.gameObject.SetActive(true);
+            firstTimeFreeResources = 1;
+            return;
+        }
         bool iniciar = false;
         textTime.text = "CARGANDO...";
         if (PlayerPrefs.HasKey(retencionGemsName))

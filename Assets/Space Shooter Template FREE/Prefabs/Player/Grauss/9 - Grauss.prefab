@@ -14689,15 +14689,15 @@ MonoBehaviour:
   maxPower: 3
   specialAttack: 3
   nameShip: Grauss
+  skins: 0
   coinButton: 1
   eurButton: 0
   gemButton: 1
-  coinPrice: 250
+  coinPrice: 290
   eurPrice: 0
   gemPrice: 120
   unlocked: 0
   Engine: {fileID: 1511134553118932}
-  QuestionMark: {fileID: 0}
   StartButton: {fileID: 0}
   OuterSpaceName: {fileID: 0}
   AsteroidNebulaName: {fileID: 0}
@@ -29353,7 +29353,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &384820133686866720
 Transform:
   m_ObjectHideFlags: 0
@@ -29408,6 +29408,7 @@ MonoBehaviour:
   maxPower: 3
   specialAttack: 3
   nameShip: Grauss
+  skins: 0
   coinButton: 1
   eurButton: 0
   gemButton: 1
@@ -29416,7 +29417,6 @@ MonoBehaviour:
   gemPrice: 120
   unlocked: 0
   Engine: {fileID: 6125093520228498929}
-  QuestionMark: {fileID: 0}
   StartButton: {fileID: 0}
   OuterSpaceName: {fileID: 0}
   AsteroidNebulaName: {fileID: 0}
@@ -49274,6 +49274,10 @@ PrefabInstance:
     - target: {fileID: 1510184446397956, guid: 5fde19f826421fc48bf7e23a70ddfddf, type: 3}
       propertyPath: m_Name
       value: 9 - Cosmos Grauss
+      objectReference: {fileID: 0}
+    - target: {fileID: 1510184446397956, guid: 5fde19f826421fc48bf7e23a70ddfddf, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4923957858404230, guid: 5fde19f826421fc48bf7e23a70ddfddf, type: 3}
       propertyPath: m_RootOrder

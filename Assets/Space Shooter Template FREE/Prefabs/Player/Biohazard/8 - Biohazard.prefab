@@ -14687,16 +14687,18 @@ MonoBehaviour:
   maxPower: 4
   specialAttack: 5
   nameShip: Biohazard
+  skins: 0
   coinButton: 0
   eurButton: 1
   gemButton: 1
   coinPrice: 75
   eurPrice: 1.99
-  gemPrice: 160
+  gemPrice: 180
   unlocked: 0
   Engine: {fileID: 1511134553118932}
-  QuestionMark: {fileID: 0}
   StartButton: {fileID: 0}
+  OuterSpaceName: {fileID: 0}
+  AsteroidNebulaName: {fileID: 0}
 --- !u!114 &114660646102788534
 MonoBehaviour:
   m_ObjectHideFlags: 0
